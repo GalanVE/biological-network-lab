@@ -5,19 +5,19 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#about_lab'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
   - name: Projects
     url: '#projects'
+    weight: 20
+  - name: Principal Investigator
+    url: '#about'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Team
+    url: '#team'
     weight: 40
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 50
   - name: Contact
     url: '#contact'
